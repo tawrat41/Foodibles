@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "371033665343",
+    "firebase_url": "https://restaurant-app-5c333-default-rtdb.firebaseio.com",
+    "project_id": "restaurant-app-5c333",
+    "storage_bucket": "restaurant-app-5c333.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371033665343:android:e1bba136d1ee7e4ec12d8a",
+        "android_client_info": {
+          "package_name": "com.anit.new_foodibles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371033665343-s97stt53vrtkpm64fc193ev5cfefgctr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5SIeFNT356Jx6tp7bbU-lfJWnws7hs5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371033665343-s97stt53vrtkpm64fc193ev5cfefgctr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371033665343:android:37ed3e8bae9cf424c12d8a",
+        "android_client_info": {
+          "package_name": "com.example.foodibles_manage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371033665343-s97stt53vrtkpm64fc193ev5cfefgctr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5SIeFNT356Jx6tp7bbU-lfJWnws7hs5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371033665343-s97stt53vrtkpm64fc193ev5cfefgctr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

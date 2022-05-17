@@ -1,0 +1,7 @@
+profile section (edit)
+(done)cart
+orders, check by rest
+menu edit
+(done)review upload, view
+(done)status update, view
+login to check cust/business
